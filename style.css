@@ -103,3 +103,12 @@ img:hover
     height:800px;
     background-color: chocolate;
 }
+#matt
+{
+    width: 500;
+    height: auto;
+}
+#inspirations
+{
+    background-color: goldenrod;
+}
