@@ -46,7 +46,7 @@ p
 {
     list-style: none;
     font-family: serif;
-    position: absolute;
+    position: fixed;
     top: 10px;
     right: 30px;
     cursor: pointer;
@@ -111,4 +111,12 @@ img:hover
 #inspirations
 {
     background-color: goldenrod;
+}
+#contact
+{
+    background:firebrick;
+}
+.contact a
+{
+    color:white;
 }
